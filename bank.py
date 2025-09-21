@@ -2,6 +2,7 @@ import os
 import random
 from mutualFunctions import getLine, findLine, editMoney, userQuit, editInfo
 
+#another commetn
 #comments
 FOLDER = "bankFiles/"
 DETAILS = "account_details.txt"
