@@ -2,7 +2,7 @@ import os
 import random
 from mutualFunctions import getLine, findLine, editMoney, userQuit, editInfo
 
-
+#comments
 FOLDER = "bankFiles/"
 DETAILS = "account_details.txt"
 CHEQUE = "chequing_money.txt"
