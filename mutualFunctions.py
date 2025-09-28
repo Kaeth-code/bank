@@ -2,14 +2,12 @@
 import os
 import random
 
-
+#Constants for file locations
 FOLDER = "bankFiles/"
 DETAILS = "account_details.txt"
 CHEQUE = "chequing_money.txt"
 SAVE = "savings_money.txt"
 CARD = "card_info.txt"
-
-
 
 
 '''
